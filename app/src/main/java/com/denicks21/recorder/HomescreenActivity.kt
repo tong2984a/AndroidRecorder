@@ -23,9 +23,9 @@ class HomescreenActivity : AppCompatActivity() {
         backgroundText.startAnimation(textAnimation)
 
         // Image view
-        val backgroundImage: ImageView = findViewById(R.id.imageView)
-        val imageAnimation = AnimationUtils.loadAnimation(this, R.anim.fade_in)
-        backgroundImage.startAnimation(imageAnimation)
+        //val backgroundImage: ImageView = findViewById(R.id.imageView)
+        //val imageAnimation = AnimationUtils.loadAnimation(this, R.anim.fade_in)
+        //backgroundImage.startAnimation(imageAnimation)
 
         // Splashscreen delay
         Handler(Looper.getMainLooper()).postDelayed({

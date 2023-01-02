@@ -5,6 +5,17 @@
       <map>
         <entry key="..\:/Users/Developer2/AndroidStudioProjects/PRIVATES/Recorder/app/src/main/res/layout/activity_homescreen.xml" value="0.37083333333333335" />
         <entry key="..\:/Users/Developer2/AndroidStudioProjects/PRIVATES/Recorder/app/src/main/res/layout/activity_main.xml" value="0.3578125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/btn_rec_play.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/btn_rec_start.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/btn_rec_stop.xml" value="0.182" />
+        <entry key="app/src/main/res/drawable/btn_rec_stop_play.xml" value="0.1425" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.182" />
+        <entry key="app/src/main/res/layout/activity_card.xml" value="0.25271739130434784" />
+        <entry key="app/src/main/res/layout/activity_card_buttons.xml" value="0.25729166666666664" />
+        <entry key="app/src/main/res/layout/activity_homescreen.xml" value="0.1734375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="app/src/main/res/layout/activity_main_orig.xml" value="0.25729166666666664" />
       </map>
     </option>
   </component>

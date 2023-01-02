@@ -1,10 +1,17 @@
 <resources>
-    <string name="app_name">Recorder</string>
+    <string name="app_name">阿婆日記</string>
 
     // Buttons
     <string name="registratoreStart">START</string>
     <string name="registratoreStop">PAUSE</string>
     <string name="registratorePlay">PLAY</string>
     <string name="registratoreStopPlay">STOP</string>
-    <string name="registratoreStatus">Recording status</string>
+    <string name="registratoreStatus"></string>
+    <string name="registratoreWhere">住邊度</string>
+    <string name="registratoreWhat">平時做咩</string>
+    <string name="registratoreWhom">同邊個住</string>
+    <string name="growingUp">成長期</string>
+    <string name="love">愛</string>
+    <string name="children">子女</string>
+    <string name="popo">婆婆</string>
 </resources>

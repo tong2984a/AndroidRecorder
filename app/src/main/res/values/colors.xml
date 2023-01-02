@@ -6,4 +6,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="background_color">#FFECB3</color>
+    <color name="where">#233BEC</color>
+    <color name="what">#2FEB58</color>
+    <color name="whom">#20C6D4</color>
+    <color name="unused">#AFD420</color>
 </resources>
